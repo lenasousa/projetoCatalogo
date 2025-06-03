@@ -78,7 +78,7 @@ Este projeto foi desenvolvido como parte de uma iniciativa de um Projeto de exte
 
 ```
 
-git clone https://github.com/seu-usuario/catalogo-cultural-sp.git
+git clone https://github.com/lenasousa/projetoCatalogo.git
 
 ```
 
@@ -88,13 +88,26 @@ git clone https://github.com/seu-usuario/catalogo-cultural-sp.git
 
 ```
 
-cd catalogo-cultural-sp
-
+cd projetoCatalogo
 ```
 
  
 
-3. Abra o arquivo `index.html` em um navegador web ou use um servidor local como o Live Server do VS Code.
+3. Certifique-se que tem python instalado (visto que é a melhor forma de rodar o projeto completo):
+
+```
+python --version
+
+```
+
+4. Caso não tenha instalado será necessário fazer o download e a instalação. Pode fazer isso no site: https://www.python.org/
+   
+5. Com o python instalado, rode o projeto localmente com o comando, para abrir na porta 8000 (você pode escolher outra porta se esta estiver ocupada):
+
+```
+python -m http.server 8000
+
+```
 
  
 
@@ -106,9 +119,7 @@ cd catalogo-cultural-sp
 
 2. **Filtros**: Na página de eventos, utilize os filtros para encontrar eventos por tipo ou valor
 
-3. **Modo Escuro**: Clique no ícone de alternância de tema no cabeçalho para mudar entre modo claro e escuro
-
-4. **Navegação Rápida**: Use o botão "Voltar ao Topo" para retornar rapidamente ao início da página
+3. **Navegação Rápida**: Use o botão "Voltar ao Topo" para retornar rapidamente ao início da página
 
  
 
@@ -226,7 +237,7 @@ Contribuições são bem-vindas! Para contribuir:
 
  
 
-Para sugestões ou dúvidas sobre o projeto, entre em contato através do email de moderação (não divulgado publicamente).
+Para sugestões ou dúvidas sobre o projeto, entre em contato através do email helenasousasilva1@gmail.com.
 
  
 
