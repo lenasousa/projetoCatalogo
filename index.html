@@ -1,0 +1,305 @@
+<!DOCTYPE html>
+
+<html lang="pt-br">
+
+<head>    <meta charset="UTF-8">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Catálogo Cultural Interativo de São Paulo</title>
+
+    <!-- Favicon -->
+
+    <link rel="icon" href="src/assets/img/favicon.svg" type="image/svg+xml">
+
+    <!-- Fontes -->
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+
+    <!-- CSS -->
+
+    <link rel="stylesheet" href="src/assets/css/styles.css">
+
+</head>
+
+<body>
+
+    <header>
+
+        <div class="container">
+
+            <h1 class="logo">Catálogo Cultural Interativo</h1>
+
+            <button id="sugerir-espaco" class="btn-sugerir">Sugerir Espaço</button>
+
+        </div>
+
+    </header>
+
+ 
+
+    <main>
+
+        <section class="hero">
+
+            <div class="container">
+
+                <h2>Explore os Espaços Culturais de São Paulo</h2>
+
+                <p>Descubra lugares incríveis organizados por zonas da cidade</p>
+
+            </div>
+
+        </section>
+
+ 
+
+        <section class="zonas-container">
+
+            <div class="container">
+
+                <h2>Zonas de São Paulo</h2>
+
+                <div id="zonas-grid" class="cards-grid">
+
+                    <!-- Cards das zonas serão inseridos dinamicamente pelo JavaScript -->
+
+                </div>
+
+            </div>
+
+        </section>
+
+    </main>    <footer>
+
+        <div class="container">
+
+            <p>Catálogo Cultural Interativo de São Paulo &copy; 2025</p>
+
+            <div class="ods-icons">                <div class="ods-item">
+
+                    <span class="ods-badge">ODS 4</span>
+
+                    <div class="ods-tooltip">
+
+                        <h3>ODS 4 – Educação de Qualidade</h3>
+
+                        <p><strong>Objetivo:</strong> Garantir uma educação inclusiva, equitativa e de qualidade, e promover oportunidades de aprendizagem ao longo da vida para todos.</p>
+
+                        <p><strong>Foco:</strong></p>
+
+                        <ul>
+
+                            <li>Acesso universal à educação primária e secundária gratuita e de qualidade.</li>
+
+                            <li>Acesso igualitário à educação técnica, profissional e superior.</li>
+
+                            <li>Melhoria da qualidade da educação e da formação de professores.</li>
+
+                        </ul>
+
+                        <a href="https://brasil.un.org/pt-br/sdgs" target="_blank" rel="noopener">Saiba mais sobre os ODS</a>
+
+                    </div>
+
+                </div>                <div class="ods-item">
+
+                    <span class="ods-badge">ODS 8</span>
+
+                    <div class="ods-tooltip">
+
+                        <h3>ODS 8 – Trabalho Decente e Crescimento Econômico</h3>
+
+                        <p><strong>Objetivo:</strong> Promover o crescimento econômico sustentado, inclusivo e sustentável, emprego pleno e produtivo, e trabalho decente para todos.</p>
+
+                        <p><strong>Foco:</strong></p>
+
+                        <ul>
+
+                            <li>Redução do desemprego, especialmente entre jovens.</li>
+
+                            <li>Erradicação do trabalho forçado e infantil.</li>
+
+                            <li>Promoção de ambientes de trabalho seguros e protegidos.</li>
+
+                        </ul>
+
+                        <a href="https://brasil.un.org/pt-br/sdgs" target="_blank" rel="noopener">Saiba mais sobre os ODS</a>
+
+                    </div>
+
+                </div>                <div class="ods-item">
+
+                    <span class="ods-badge">ODS 11</span>
+
+                    <div class="ods-tooltip">
+
+                        <h3>ODS 11 – Cidades e Comunidades Sustentáveis</h3>
+
+                        <p><strong>Objetivo:</strong> Tornar as cidades e os assentamentos humanos inclusivos, seguros, resilientes e sustentáveis.</p>
+
+                        <p><strong>Foco:</strong></p>
+
+                        <ul>
+
+                            <li>Acesso a moradia segura e acessível.</li>
+
+                            <li>Transporte público acessível e sustentável.</li>
+
+                            <li>Planejamento urbano participativo e sustentável.</li>
+
+                        </ul>
+
+                        <a href="https://brasil.un.org/pt-br/sdgs" target="_blank" rel="noopener">Saiba mais sobre os ODS</a>
+
+                    </div>
+
+                </div>
+
+            </div>
+
+        </div>
+
+    </footer>
+
+ 
+
+    <!-- Modal de Sugestão -->
+
+    <div id="modal-sugestao" class="modal">
+
+        <div class="modal-content">
+
+            <span class="close-button">&times;</span>            <h2>Sugerir Novo Espaço Cultural</h2>
+
+            <p class="form-info">Campos marcados com * são obrigatórios</p>
+
+            <form id="form-sugestao" novalidate>
+
+                <div class="form-group">
+
+                    <label for="nome" class="campo-obrigatorio">Nome do Espaço</label>
+
+                    <input type="text" id="nome" name="nome" required>
+
+                    <div class="error-message">Por favor, informe o nome do espaço cultural.</div>
+
+                </div>
+
+                <div class="form-group">
+
+                    <label for="tipo" class="campo-obrigatorio">Tipo</label>
+
+                    <select id="tipo" name="tipo" required>
+
+                        <option value="">Selecione...</option>
+
+                        <option value="Exposição">Exposição</option>
+
+                        <option value="Festival">Festival</option>
+
+                        <option value="Museu">Museu</option>
+
+                        <option value="Teatro">Teatro</option>
+
+                        <option value="Cinema">Cinema</option>
+
+                        <option value="Show Musical">Show Musical</option>
+
+                        <option value="Outro">Outro</option>
+
+                    </select>
+
+                    <div class="error-message">Por favor, selecione o tipo do evento.</div>
+
+                </div>
+
+                <div class="form-group">
+
+                    <label for="bairro" class="campo-obrigatorio">Bairro</label>
+
+                    <input type="text" id="bairro" name="bairro" required>
+
+                    <div class="error-message">Por favor, informe o bairro onde está localizado.</div>
+
+                </div>
+
+                <div class="form-group">
+
+                    <label for="endereco" class="campo-obrigatorio">Endereço Completo</label>
+
+                    <input type="text" id="endereco" name="endereco" required>
+
+                    <div class="error-message">Por favor, informe o endereço completo.</div>
+
+                </div>
+
+                <div class="form-group">                    <label for="zona" class="campo-obrigatorio">Zona</label>
+
+                    <select id="zona" name="zona" required>
+
+                        <option value="">Selecione...</option>
+
+                        <option value="Central">Central</option>
+
+                        <option value="Norte">Norte</option>
+
+                        <option value="Sul">Sul</option>
+
+                        <option value="Leste">Leste</option>
+
+                        <option value="Oeste">Oeste</option>
+
+                    </select>
+
+                    <div class="error-message">Por favor, selecione a zona da cidade.</div>
+
+                </div>
+
+                <div class="form-group">
+
+                    <label for="descricao" class="campo-obrigatorio">Descrição</label>
+
+                    <textarea id="descricao" name="descricao" rows="4" required></textarea>
+
+                    <div class="error-message">Por favor, forneça uma descrição do espaço cultural.</div>
+
+                </div>
+
+                <div class="form-group">
+
+                    <label for="site">URL do Site (opcional)</label>
+
+                    <input type="url" id="site" name="site">
+
+                    <div class="error-message">Por favor, informe uma URL válida ou deixe em branco.</div>
+
+                </div>
+
+                <button type="submit" class="btn-enviar">Enviar Sugestão</button>
+
+            </form>
+
+        </div>
+
+    </div>
+
+ 
+
+    <!-- Scripts -->
+
+    <script src="src/data/data.js"></script>
+
+    <script src="src/components/modal.js"></script>
+
+    <script src="src/components/cards.js"></script>
+
+    <script src="src/pages/home.js"></script>
+
+</body>
+
+</html>

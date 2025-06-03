@@ -1,0 +1,1251 @@
+{
+
+  "eventos": [
+
+    {
+
+      "id": 1,
+
+      "nome": "Virada Cultural 2025",
+
+      "tipo": "Festival Multicultural",
+
+      "bairro": "Vários (Centro, República, Vila Albertina, etc.)",
+
+      "endereco": "Diversos locais da cidade",
+
+      "descricao": "Maior evento cultural gratuito do hemisfério sul, com mais de mil apresentações de música, teatro, dança e arte urbana em 24 horas ininterruptas.",
+
+      "zona": "Todas",
+
+      "gratuito": true,
+
+      "valor": "R$ 00,00",
+
+      "data": "2025-05-24 a 2025-05-25",
+
+      "imagem": "",
+
+      "site": "https://xtay.com.br/programacao-cultural-em-sao-paulo-maio-e-junho-de-2025/",
+
+      "destaques": [
+
+        "Shows de Luísa Sonza, MC Hariel e João Gomes",
+
+        "Intervenções artísticas como o Puzzle Gigante",
+
+        "Programação acessível com intérpretes de Libras"
+
+      ]
+
+    },
+
+    {
+
+      "id": 2,
+
+      "nome": "Andy Warhol: Pop Art!",
+
+      "tipo": "Exposição",
+
+      "bairro": "Higienópolis",
+
+      "endereco": "Museu de Arte Brasileira (MAB) da FAAP, Rua Alagoas, 903",
+
+      "descricao": "Maior exposição já realizada no Brasil sobre Andy Warhol, com mais de 600 obras incluindo ícones como Marilyn Monroe e Elvis Presley.",
+
+      "zona": "Oeste",
+
+      "gratuito": false,
+
+      "valor": "R$ 30,00",
+
+      "data": "2025-06-01 a 2025-06-30",
+
+      "imagem": "",
+
+      "site": "https://coisosonthego.com/agenda-sp/"
+
+    },
+
+    {
+
+      "id": 3,
+
+      "nome": "Visualfarm Gymnasium: Leonardo da Vinci",
+
+      "tipo": "Exposição Imersiva",
+
+      "bairro": "Campos Elíseos",
+
+      "endereco": "Praça Olavo Bilac, 38",
+
+      "descricao": "Jornada sensorial pela vida e obra do gênio renascentista com realidade virtual, projeções e réplicas de obras.",
+
+      "zona": "Central",
+
+      "gratuito": false,
+
+      "valor": "R$ 50,00",
+
+      "data": "2025-06-01 a 2025-06-15",
+
+      "imagem": "",
+
+      "site": "https://coisosonthego.com/agenda-sp/"
+
+    },
+
+    {
+
+      "id": 4,
+
+      "nome": "Festas Juninas em SP",
+
+      "tipo": "Festival Cultural",
+
+      "bairro": "Vários bairros",
+
+      "endereco": "Diversos endereços",
+
+      "descricao": "Festivais tradicionais com quadrilhas, comidas típicas e música ao vivo em vários bairros da cidade.",
+
+      "zona": "Todas",
+
+      "gratuito": true,
+
+      "valor": "R$ 00,00",
+
+      "data": "2025-06-01 a 2025-06-30 (todos os fins de semana)",
+
+      "imagem": "",
+
+      "site": "https://xtay.com.br/programacao-cultural-em-sao-paulo-maio-e-junho-de-2025/",
+
+      "destaques": [
+
+        "Arraial de São João de Santana",
+
+        "Festa Junina do Centro Cultural da Penha",
+
+        "Arraial Vegano na Vila Mariana"
+
+      ]
+
+    },
+
+    {
+
+      "id": 5,
+
+      "nome": "Bienal de Arte Contemporânea do Sesc",
+
+      "tipo": "Exposição",
+
+      "bairro": "Pompeia",
+
+      "endereco": "Sesc Pompeia - R. Clélia, 93",
+
+      "descricao": "Exposição de artistas brasileiros e internacionais que abordam temas como ancestralidade, corpo, território e identidade em instalações, vídeos e performances.",
+
+      "zona": "Oeste",
+
+      "gratuito": false,
+
+      "valor": "R$ 30,00",
+
+      "data": "2025-06-12 a 2025-08-10",
+
+      "imagem": "",
+
+      "site": "https://xtay.com.br/programacao-cultural-em-sao-paulo-maio-e-junho-de-2025/"
+
+    },
+
+    {
+
+      "id": 6,
+
+      "nome": "Festival Mix Brasil de Cinema LGBTQIA+",
+
+      "tipo": "Festival de Cinema",
+
+      "bairro": "Barra Funda",
+
+      "endereco": "CineSesc - R. Augusta, 2075",
+
+      "descricao": "Um dos maiores festivais de cinema LGBTQIA+ da América Latina, com longas, curtas, debates e performances sobre diversidade e inclusão.",
+
+      "zona": "Oeste",
+
+      "gratuito": false,
+
+      "valor": "R$ 20,00",
+
+      "data": "2025-06-20 a 2025-06-30",
+
+      "imagem": "",
+
+      "site": "https://xtay.com.br/programacao-cultural-em-sao-paulo-maio-e-junho-de-2025/"
+
+    },
+
+    {
+
+      "id": 7,
+
+      "nome": "Candlelight: The Beatles",
+
+      "tipo": "Show Musical",
+
+      "bairro": "República",
+
+      "endereco": "Teatro Municipal - Praça Ramos de Azevedo, s/n",
+
+      "descricao": "Concerto à luz de velas com os maiores sucessos dos Beatles em uma atmosfera intimista.",
+
+      "zona": "Central",
+
+      "gratuito": false,
+
+      "valor": "R$ 130,00",
+
+      "data": "2025-06-15",
+
+      "imagem": "",
+
+      "site": "https://www.myguidesaopaulo.com/pt/eventos/junho-2025"
+
+    },
+
+    {
+
+      "id": 8,
+
+      "nome": "Candlelight: Tributo a Madonna",
+
+      "tipo": "Show Musical",
+
+      "bairro": "Bela Vista",
+
+      "endereco": "Teatro Renaissance - Av. Paulista, 2073",
+
+      "descricao": "Orquestra tocando os maiores sucessos de Madonna em um ambiente iluminado por velas.",
+
+      "zona": "Central",
+
+      "gratuito": false,
+
+      "valor": "R$ 130,00",
+
+      "data": "2025-08-15",
+
+      "imagem": "",
+
+      "site": "https://www.myguidesaopaulo.com/pt/eventos/agosto-2025"
+
+    },
+
+    {
+
+      "id": 9,
+
+      "nome": "Candlelight: Mozart & Beethoven",
+
+      "tipo": "Concerto Clássico",
+
+      "bairro": "Jardins",
+
+      "endereco": "Sala São Paulo - Praça Júlio Prestes, 16",
+
+      "descricao": "Orquestra sinfônica interpretando obras-primas de Mozart e Beethoven à luz de velas.",
+
+      "zona": "Central",
+
+      "gratuito": false,
+
+      "valor": "R$ 130,00",
+
+      "data": "2025-08-22",
+
+      "imagem": "",
+
+      "site": "https://www.myguidesaopaulo.com/pt/eventos/agosto-2025"
+
+    },
+
+    {
+
+      "id": 10,
+
+      "nome": "We call it Jazz: Uma Viagem Pelo Coração de Nova Orleans",
+
+      "tipo": "Show Musical",
+
+      "bairro": "Vila Madalena",
+
+      "endereco": "Blue Note SP - R. França Pinto, 14",
+
+      "descricao": "Experiência imersiva que explora diferentes estilos de jazz e suas raízes através de performances ao vivo.",
+
+      "zona": "Oeste",
+
+      "gratuito": false,
+
+      "valor": "R$ 100,00",
+
+      "data": "2025-08-10",
+
+      "imagem": "",
+
+      "site": "https://www.myguidesaopaulo.com/pt/eventos/agosto-2025"
+
+    },
+
+    {
+
+      "id": 11,
+
+      "nome": "Candlelight: O Rock Brasileiro",
+
+      "tipo": "Show Musical",
+
+      "bairro": "Pinheiros",
+
+      "endereco": "Cine Joia - R. Frei Caneca, 569",
+
+      "descricao": "Tributo aos maiores clássicos do rock nacional, de Raul Seixas a Legião Urbana, em uma atmosfera iluminada por velas.",
+
+      "zona": "Oeste",
+
+      "gratuito": false,
+
+      "valor": "R$ 65,00",
+
+      "data": "2025-08-05",
+
+      "imagem": "",
+
+      "site": "https://www.myguidesaopaulo.com/pt/eventos/agosto-2025"
+
+    },
+
+    {
+
+      "id": 12,
+
+      "nome": "Corredor Cultural da Paulista",
+
+      "tipo": "Circuito Cultural",
+
+      "bairro": "Bela Vista",
+
+      "endereco": "Avenida Paulista",
+
+      "descricao": "7 centros culturais (MASP, Itaú Cultural, Japan House etc.) com programação diversa e gratuita aos domingos, quando a avenida é fechada para carros.",
+
+      "zona": "Central",
+
+      "gratuito": true,
+
+      "valor": "R$ 00,00 (algumas exposições pagas)",
+
+      "data": "Todos os domingos de junho, julho e agosto",
+
+      "imagem": "",
+
+      "site": "https://coisosonthego.com/agenda-sp/"
+
+    },
+
+    {
+
+      "id": 13,
+
+      "nome": "Viva Volpi - arte para brincar",
+
+      "tipo": "Exposição Interativa",
+
+      "bairro": "Centro",
+
+      "endereco": "Farol Santander - Rua João Brícola, 24",
+
+      "descricao": "Experiência lúdica que apresenta a trajetória do pintor Alfredo Volpi através de instalações interativas.",
+
+      "zona": "Central",
+
+      "gratuito": false,
+
+      "valor": "R$ 30,00",
+
+      "data": "2025-06-01 a 2025-07-27",
+
+      "imagem": "",
+
+      "site": "https://coisosonthego.com/agenda-sp/"
+
+    },
+
+    {
+
+      "id": 14,
+
+      "nome": "Ad Minoliti - Escola Feminista de Pintura",
+
+      "tipo": "Exposição",
+
+      "bairro": "Luz",
+
+      "endereco": "Pinacoteca Contemporânea - Av. Tiradentes, 273",
+
+      "descricao": "Exposição que propõe um novo modelo de educação artística, unindo abstração geométrica e ativismos feministas.",
+
+      "zona": "Central",
+
+      "gratuito": false,
+
+      "valor": "R$ 30,00 (grátis aos sábados)",
+
+      "data": "2025-06-01 a 2025-07-27",
+
+      "imagem": "",
+
+      "site": "https://coisosonthego.com/agenda-sp/"
+
+    },
+
+    {
+
+      "id": 15,
+
+      "nome": "Exposições na Japan House",
+
+      "tipo": "Exposição",
+
+      "bairro": "Bela Vista",
+
+      "endereco": "Avenida Paulista, 52",
+
+      "descricao": "Mostras gratuitas sobre cultura japonesa, incluindo 'Princípios Japoneses - design e recursos' e 'A vida que se revela' com fotos de Rinko Kawauchi.",
+
+      "zona": "Central",
+
+      "gratuito": true,
+
+      "valor": "R$ 00,00",
+
+      "data": "2025-06-01 a 2025-06-08",
+
+      "imagem": "",
+
+      "site": "https://coisosonthego.com/agenda-sp/"
+
+    },
+
+    {
+
+      "id": 16,
+
+      "nome": "Museu do Ipiranga",
+
+      "tipo": "Museu",
+
+      "bairro": "Vila Monumento",
+
+      "endereco": "Rua dos Patriotas, 20",
+
+      "descricao": "Reaberto após reformas, com acervo ampliado incluindo o quadro 'Independência ou Morte' de Pedro Américo e exposições sobre história do Brasil.",
+
+      "zona": "Sul",
+
+      "gratuito": false,
+
+      "valor": "R$ 30,00 (grátis às quartas e 1º domingo)",
+
+      "data": "2025-06-01 a 2025-08-31",
+
+      "imagem": "",
+
+      "site": "https://coisosonthego.com/agenda-sp/"
+
+    },
+
+    {
+
+      "id": 17,
+
+      "nome": "Instituto Bardi/Casa de Vidro",
+
+      "tipo": "Visita Guiada",
+
+      "bairro": "Morumbi",
+
+      "endereco": "Rua General Almério de Moura, 200",
+
+      "descricao": "Visitas à icônica Casa de Vidro, marco da arquitetura moderna brasileira projetada por Lina Bo Bardi.",
+
+      "zona": "Oeste",
+
+      "gratuito": false,
+
+      "valor": "R$ 58,00",
+
+      "data": "2025-06-05, 2025-06-06, 2025-06-07, etc. (quintas a sábados)",
+
+      "imagem": "",
+
+      "site": "https://coisosonthego.com/agenda-sp/"
+
+    },
+
+    {
+
+      "id": 18,
+
+      "nome": "Vila Itororó",
+
+      "tipo": "Centro Cultural",
+
+      "bairro": "Bela Vista",
+
+      "endereco": "Rua Maestro Cardim, 60",
+
+      "descricao": "Vila residencial de 1920 transformada em espaço cultural com shows, espetáculos em palcos não-convencionais, oficinas e feiras.",
+
+      "zona": "Central",
+
+      "gratuito": true,
+
+      "valor": "R$ 00,00",
+
+      "data": "2025-06-01 a 2025-08-31 (terça a domingo)",
+
+      "imagem": "",
+
+      "site": "https://coisosonthego.com/agenda-sp/"
+
+    },
+
+    {
+
+      "id": 19,
+
+      "nome": "Parque Ibirapuera",
+
+      "tipo": "Parque",
+
+      "bairro": "Vila Mariana",
+
+      "endereco": "Av. Pedro Álvares Cabral, s/nº",
+
+      "descricao": "Principal parque da cidade, com áreas para piquenique, museus (MAM, OCA), ciclovia e frequentado por paulistanos em dias de sol.",
+
+      "zona": "Sul",
+
+      "gratuito": true,
+
+      "valor": "R$ 00,00",
+
+      "data": "Todos os dias",
+
+      "imagem": "",
+
+      "site": "https://coisosonthego.com/agenda-sp/"
+
+    },
+
+    {
+
+      "id": 20,
+
+      "nome": "Parada LGBT",
+
+      "tipo": "Evento Social",
+
+      "bairro": "República",
+
+      "endereco": "Avenida Paulista",
+
+      "descricao": "Maior evento de diversidade sexual da América Latina com trios elétricos e shows",
+
+      "zona": "Central",
+
+      "gratuito": true,
+
+      "valor": "R$ 00,00",
+
+      "data": "2025-06-28",
+
+      "imagem": "",
+
+      "site": "https://capital.sp.gov.br/web/turismo/w/eventos/309928"
+
+    },
+
+    {
+
+      "id": 21,
+
+      "nome": "Marcha para Jesus",
+
+      "tipo": "Evento Religioso",
+
+      "bairro": "Centro",
+
+      "endereco": "Av. Tiradentes",
+
+      "descricao": "Maior evento gospel do país com shows e pregações",
+
+      "zona": "Central",
+
+      "gratuito": true,
+
+      "valor": "R$ 00,00",
+
+      "data": "2025-06-10",
+
+      "imagem": "",
+
+      "site": "https://capital.sp.gov.br/web/turismo/w/eventos/309928"
+
+    },
+
+    {
+
+      "id": 22,
+
+      "nome": "Candlelight: Trilhas Sonoras Mágicas",
+
+      "tipo": "Show Musical",
+
+      "bairro": "Bela Vista",
+
+      "endereco": "Teatro Renaissance - Av. Paulista, 2073",
+
+      "descricao": "Orquestra tocando trilhas de filmes famosos à luz de velas",
+
+      "zona": "Central",
+
+      "gratuito": false,
+
+      "valor": "R$ 130,00",
+
+      "data": "2025-07-12",
+
+      "imagem": "",
+
+      "site": "https://www.myguidesaopaulo.com/pt/eventos/julho-2025"
+
+    },
+
+    {
+
+      "id": 23,
+
+      "nome": "Nós chamamos de Ballet: A Bela Adormecida",
+
+      "tipo": "Espetáculo de Dança",
+
+      "bairro": "Vila Olímpia",
+
+      "endereco": "Teatro Bradesco - Av. das Nações Unidas, 12901",
+
+      "descricao": "Releitura contemporânea do clássico com efeitos de luz e trajes inovadores",
+
+      "zona": "Oeste",
+
+      "gratuito": false,
+
+      "valor": "R$ 130,00",
+
+      "data": "2025-07-18 a 2025-07-20",
+
+      "imagem": "",
+
+      "site": "https://www.myguidesaopaulo.com/pt/eventos/julho-2025"
+
+    },
+
+    {
+
+      "id": 24,
+
+      "nome": "Anime Friends",
+
+      "tipo": "Festival de Cultura Pop",
+
+      "bairro": "Interlagos",
+
+      "endereco": "Autódromo de Interlagos - Av. Sen. Teotônio Vilela, 261",
+
+      "descricao": "Maior evento de cultura japonesa do Brasil com cosplays, shows e competições",
+
+      "zona": "Sul",
+
+      "gratuito": false,
+
+      "valor": "R$ 120,00 (1 dia)",
+
+      "data": "2025-07-25 a 2025-07-27",
+
+      "imagem": "",
+
+      "site": "https://capital.sp.gov.br/web/turismo/w/eventos/309928"
+
+    },
+
+    {
+
+      "id": 25,
+
+      "nome": "Farraial",
+
+      "tipo": "Festival Cultural",
+
+      "bairro": "Centro",
+
+      "endereco": "Praça da República",
+
+      "descricao": "Festival de cultura caipira com música sertaneja raiz e comidas típicas",
+
+      "zona": "Central",
+
+      "gratuito": true,
+
+      "valor": "R$ 00,00",
+
+      "data": "2025-07-12 a 2025-07-13",
+
+      "imagem": "",
+
+      "site": "https://capital.sp.gov.br/web/turismo/w/eventos/309928"
+
+    },
+
+    {
+
+      "id": 26,
+
+      "nome": "Revelando SP - Etapa São Paulo",
+
+      "tipo": "Festival Cultural",
+
+      "bairro": "Centro",
+
+      "endereco": "Local a definir",
+
+      "descricao": "Celebração das tradições paulistas com gastronomia, artesanato e manifestações artísticas",
+
+      "zona": "Central",
+
+      "gratuito": true,
+
+      "valor": "R$ 00,00",
+
+      "data": "2025-08-25 a 2025-08-28",
+
+      "imagem": "",
+
+      "site": "https://www.cultura.sp.gov.br/sec_cultura/Institucional/Noticias_da_Secretaria_da_Cultura/revelando_2025"
+
+    },
+
+    {
+
+      "id": 27,
+
+      "nome": "Jornada do Patrimônio",
+
+      "tipo": "Evento Cultural",
+
+      "bairro": "Vários bairros",
+
+      "endereco": "Diversos locais históricos",
+
+      "descricao": "Visitas guiadas a patrimônios arquitetônicos e atividades sobre memória urbana",
+
+      "zona": "Todas",
+
+      "gratuito": true,
+
+      "valor": "R$ 00,00",
+
+      "data": "2025-08-16 a 2025-08-17",
+
+      "imagem": "",
+
+      "site": "https://capital.sp.gov.br/web/turismo/w/eventos/309928"
+
+    },
+
+    {
+
+      "id": 28,
+
+      "nome": "Festival Interlagos - Automóveis",
+
+      "tipo": "Evento Automotivo",
+
+      "bairro": "Interlagos",
+
+      "endereco": "Autódromo de Interlagos - Av. Sen. Teotônio Vilela, 261",
+
+      "descricao": "Exposição de carros clássicos e competições automobilísticas",
+
+      "zona": "Sul",
+
+      "gratuito": false,
+
+      "valor": "R$ 80,00",
+
+      "data": "2025-08-23 a 2025-08-24",
+
+      "imagem": "",
+
+      "site": "https://capital.sp.gov.br/web/turismo/w/eventos/309928"
+
+    },
+
+    {
+
+      "id": 29,
+
+      "nome": "FI South América",
+
+      "tipo": "Feira Industrial",
+
+      "bairro": "Santana",
+
+      "endereco": "Expo Center Norte - Rua José Bernardo Pinto, 333",
+
+      "descricao": "Maior feira de inovação industrial da América Latina",
+
+      "zona": "Norte",
+
+      "gratuito": false,
+
+      "valor": "R$ 150,00 (credencial profissional)",
+
+      "data": "2025-08-12 a 2025-08-15",
+
+      "imagem": "",
+
+      "site": "https://capital.sp.gov.br/web/turismo/w/eventos/309928"
+
+    },
+
+    {
+
+      "id": 30,
+
+      "nome": "INTERSOLAR South America",
+
+      "tipo": "Feira de Energia",
+
+      "bairro": "Santana",
+
+      "endereco": "Expo Center Norte - Rua José Bernardo Pinto, 333",
+
+      "descricao": "Evento líder em energias renováveis e eficiência energética",
+
+      "zona": "Norte",
+
+      "gratuito": false,
+
+      "valor": "R$ 120,00 (credencial profissional)",
+
+      "data": "2025-08-18 a 2025-08-20",
+
+      "imagem": "",
+
+      "site": "https://capital.sp.gov.br/web/turismo/w/eventos/309928"
+
+    },
+
+    {
+
+      "id": 31,
+
+      "nome": "Mercado Municipal",
+
+      "tipo": "Mercado",
+
+      "bairro": "Centro",
+
+      "endereco": "R. da Cantareira, 306",
+
+      "descricao": "Mercado histórico com barracas de gastronomia e produtos típicos",
+
+      "zona": "Central",
+
+      "gratuito": true,
+
+      "valor": "R$ 00,00 (consumo opcional)",
+
+      "data": "Todos os dias (exceto domingo à noite)",
+
+      "imagem": "",
+
+      "site": "https://www.myguidesaopaulo.com/pt/eventos/junho-2025"
+
+    },
+
+    {
+
+      "id": 32,
+
+      "nome": "Bosque Old Cars",
+
+      "tipo": "Feira Automotiva",
+
+      "bairro": "São José (São Caetano do Sul)",
+
+      "endereco": "Bosque do Povo, Estrada das Lágrimas, 320",
+
+      "descricao": "Exposição de carros antigos com atrações artísticas, food trucks e mercado de pulgas para toda a família.",
+
+      "zona": "ABC Paulista",
+
+      "gratuito": true,
+
+      "valor": "R$ 00,00 (doação de alimentos não perecíveis)",
+
+      "data": "2025-06-01",
+
+      "imagem": "",
+
+      "site": ""
+
+    },
+
+    {
+
+      "id": 33,
+
+      "nome": "A Bela e a Fera",
+
+      "tipo": "Teatro Infantil",
+
+      "bairro": "Santa Paula (São Caetano do Sul)",
+
+      "endereco": "Teatro Municipal Santos Dumont, Avenida Goiás, 1.111",
+
+      "descricao": "Adaptação do clássico conto de fadas sobre a jovem Bela que se apaixona pela Fera encantada.",
+
+      "zona": "ABC Paulista",
+
+      "gratuito": false,
+
+      "valor": "R$ 20,00 a R$ 40,00",
+
+      "data": "2025-06-01",
+
+      "imagem": "",
+
+      "site": ""
+
+    },
+
+    {
+
+      "id": 34,
+
+      "nome": "Era uma vez... uma brincadeira",
+
+      "tipo": "Ballet Infantil",
+
+      "bairro": "Olímpico (São Caetano do Sul)",
+
+      "endereco": "Teatro Municipal Paulo Machado de Carvalho, Alameda Conde de Porto Alegre, 840",
+
+      "descricao": "Espetáculo infantil de ballet realizado pela Fundação das Artes com contos clássicos.",
+
+      "zona": "ABC Paulista",
+
+      "gratuito": false,
+
+      "valor": "R$ 10,00 a R$ 20,00",
+
+      "data": "2025-05-31",
+
+      "imagem": "",
+
+      "site": ""
+
+    },
+
+    {
+
+      "id": 35,
+
+      "nome": "Ney por Fê",
+
+      "tipo": "Musical",
+
+      "bairro": "Santa Paula (São Caetano do Sul)",
+
+      "endereco": "Teatro Municipal Santos Dumont, Avenida Goiás, 1.111",
+
+      "descricao": "Homenagem ao ícone Ney Matogrosso, celebrando sua obra como intérprete e sua trajetória artística.",
+
+      "zona": "ABC Paulista",
+
+      "gratuito": false,
+
+      "valor": "R$ 20,00 a R$ 40,00",
+
+      "data": "2025-05-30",
+
+      "imagem": "",
+
+      "site": ""
+
+    },
+
+    {
+
+      "id": 36,
+
+      "nome": "Música Sacra no Brasil Colonial",
+
+      "tipo": "Concerto",
+
+      "bairro": "Santa Paula (São Caetano do Sul)",
+
+      "endereco": "Teatro Municipal Santos Dumont, Avenida Goiás, 1.111",
+
+      "descricao": "Imersão na música sacra produzida no Brasil durante o período colonial, com compositores de relevância histórica.",
+
+      "zona": "ABC Paulista",
+
+      "gratuito": false,
+
+      "valor": "R$ 60,00 a R$ 120,00",
+
+      "data": "2025-05-31",
+
+      "imagem": "",
+
+      "site": ""
+
+    },
+
+    {
+
+      "id": 37,
+
+      "nome": "Feira de Artesanato & Gastronomia",
+
+      "tipo": "Feira",
+
+      "bairro": "São José (São Caetano do Sul)",
+
+      "endereco": "Espaço Verde Chico Mendes, Avenida Fernando Simonsen, 566",
+
+      "descricao": "37 barracas de artesanato e 13 de gastronomia com produtos locais, aos finais de semana.",
+
+      "zona": "ABC Paulista",
+
+      "gratuito": true,
+
+      "valor": "R$ 00,00",
+
+      "data": "2025-06-07, 2025-06-08, 2025-06-14, 2025-06-15, etc.",
+
+      "imagem": "",
+
+      "site": ""
+
+    },
+
+    {
+
+      "id": 38,
+
+      "nome": "Exposição 'Nossos Bairros'",
+
+      "tipo": "Exposição Fotográfica",
+
+      "bairro": "Cerâmica (São Caetano do Sul)",
+
+      "endereco": "Praça do Forno, Espaço Cerâmica",
+
+      "descricao": "Imagens que representam momentos dos 15 bairros do município, destacando cenários e referências locais.",
+
+      "zona": "ABC Paulista",
+
+      "gratuito": true,
+
+      "valor": "R$ 00,00",
+
+      "data": "2025-05-21 a 2025-08-01",
+
+      "imagem": "",
+
+      "site": ""
+
+    },
+
+    {
+
+      "id": 39,
+
+      "nome": "Pinacoteca - Pina Contemporânea",
+
+      "tipo": "Exposição",
+
+      "bairro": "Luz",
+
+      "endereco": "Av. Tiradentes, 273",
+
+      "descricao": "Exposição 'Ad Minoliti - Escola Feminista de Pintura' que propõe novo modelo de educação artística unindo abstração geométrica e ativismos.",
+
+      "zona": "Central",
+
+      "gratuito": false,
+
+      "valor": "R$ 30,00 (entrada gratuita aos sábados)",
+
+      "data": "2025-06-01 a 2025-07-27",
+
+      "imagem": "",
+
+      "site": ""
+
+    },
+
+    {
+
+      "id": 40,
+
+      "nome": "Farol Santander - Exposições",
+
+      "tipo": "Exposição",
+
+      "bairro": "Centro",
+
+      "endereco": "Rua João Brícola, 24",
+
+      "descricao": "Duas mostras em cartaz: 'Heloisa Hariadne - A Cor do Ar' (até 15/6) e 'Viva Volpi - arte para brincar' (até 27/7), experiência lúdica sobre o pintor Alfredo Volpi.",
+
+      "zona": "Central",
+
+      "gratuito": false,
+
+      "valor": "R$ 30,00",
+
+      "data": "2025-06-01 a 2025-07-27",
+
+      "imagem": "",
+
+      "site": ""
+
+    },
+
+    {
+
+      "id": 41,
+
+      "nome": "Brunch no Botanikafé",
+
+      "tipo": "Gastronomia",
+
+      "bairro": "Butantã",
+
+      "endereco": "Av. Magalhães de Castro, 286",
+
+      "descricao": "Eleito melhor brunch de SP em 2024, oferece opções como toast com mortadela, pistache e burrata (R$58) e sanduíches gourmet.",
+
+      "zona": "Oeste",
+
+      "gratuito": false,
+
+      "valor": "R$ 40,00 a R$ 60,00",
+
+      "data": "Todos os finais de semana",
+
+      "imagem": "",
+
+      "site": ""
+
+    },
+
+    {
+
+      "id": 42,
+
+      "nome": "Noitão do Cinema Belas Artes",
+
+      "tipo": "Cinema",
+
+      "bairro": "Consolação",
+
+      "endereco": "R. da Consolação, 2.423",
+
+      "descricao": "Sessões temáticas que varam a madrugada com três filmes por edição, como 'Herança Maldita' e 'Eraserhead' na programação de terror.",
+
+      "zona": "Central",
+
+      "gratuito": false,
+
+      "valor": "R$ 80,00",
+
+      "data": "2025-06-21",
+
+      "imagem": "",
+
+      "site": ""
+
+    },
+
+    {
+
+      "id": 43,
+
+      "nome": "Time Warp",
+
+      "tipo": "Festival de Música Eletrônica",
+
+      "bairro": "Centro",
+
+      "endereco": "Local a definir",
+
+      "descricao": "Festival underground de música eletrônica que traz os melhores DJs de techno e house para a paisagem urbana de São Paulo.",
+
+      "zona": "Central",
+
+      "gratuito": false,
+
+      "valor": "R$ 200,00+",
+
+      "data": "2025-05-02 a 2025-05-03",
+
+      "imagem": "",
+
+      "site": "https://www.service95.com/best-festivals-2025"
+
+    }
+
+  ],
+
+  "total_eventos": 43,
+
+  "observacoes": [
+
+    "Eventos sujeitos a alterações - verifique os sites oficiais",
+
+    "Para eventos gratuitos com lotação limitada, chegar com antecedência",
+
+    "Alguns eventos exigem reserva antecipada mesmo sendo gratuitos",
+
+    "Valores podem variar conforme data e lote de ingressos",
+
+    "Alguns eventos podem ter alterações de programação - verifique os sites oficiais",
+
+    "Para eventos gratuitos com capacidade limitada, chegar com antecedência",
+
+    "Valores e datas sujeitos a alteração pelos organizadores"
+
+  ]
+
+}
