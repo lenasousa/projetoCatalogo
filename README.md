@@ -141,8 +141,6 @@ O projeto foi desenvolvido seguindo o conceito mobile-first e é totalmente resp
 
 - Contraste adequado entre texto e fundo
 
-- Alternância entre temas claro e escuro
-
 - Botões e interações com feedback visual claro
 
 - Navegação facilitada com botão "Voltar ao Topo"
@@ -150,10 +148,6 @@ O projeto foi desenvolvido seguindo o conceito mobile-first e é totalmente resp
  
 
 ## 🎨 Design
-
- 
-
-- **Sistema de Temas**: Suporte para tema claro e escuro com detecção automática de preferência do sistema
 
 - **Paleta de Cores**: Esquemas de cores adaptáveis com variáveis CSS
 
